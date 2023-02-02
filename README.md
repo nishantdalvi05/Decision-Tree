@@ -28,6 +28,8 @@ Approach - A decision tree can be built with target variable Sale (we will first
 
 
 
+
+
 2.Use decision trees to prepare a model on fraud data 
 treating those who have taxable_income <= 30000 as "Risky" and others are "Good"
 
